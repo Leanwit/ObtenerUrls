@@ -6,5 +6,5 @@ Proyecto para obtener los primeros 10 urls de los buscadores para una determinad
 * [Intelligo] (http://www.explora-intelligo.info/)
 
 ##Librerias Utilizadas
-*[Python Clips Pattern]
-*[Web Selenium]
+*[Python Clips Pattern] (http://www.clips.ua.ac.be/pattern)
+*[Web Selenium] (http://selenium-python.readthedocs.io/)
